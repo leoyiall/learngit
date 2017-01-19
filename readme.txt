@@ -7,3 +7,4 @@ Git is modified for me.
 hello,world!
 test~~
 Creating a new branch is quick.
+yeah! I knew it.
